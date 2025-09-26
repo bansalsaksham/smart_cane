@@ -1,4 +1,4 @@
-# 🦯 Smart Cane for the Visually Impaired (Arduino Project)
+# 🦯 Smart Cane for the Visually Impaired
 
 This project is a **Smart Cane** designed to assist **visually impaired individuals** in navigating safely. It uses an **IR sensor** to detect **stairs/drops** and an **Ultrasonic sensor** to detect **obstacles ahead**. Two buzzers provide **audio feedback** to alert the user of potential hazards.
 
